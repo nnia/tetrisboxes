@@ -1,4 +1,4 @@
- /*
+ /* nnia 
  * (c) Copyright 1995-1999, Igor Tarasov
  * FidoNet: 2:5020/370.2 620.20 1103.5
  * Inet: itarasov@rtuis.miem.edu.ru
